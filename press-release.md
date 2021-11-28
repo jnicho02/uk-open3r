@@ -1,20 +1,20 @@
-Title: XYZ ANNOUNCES [SERVICE | TECHNOLOGY | TOOL] TO ENABLE [CUSTOMER SEGMENT] TO [BENEFIT STATEMENT].
+Title: CODETHECITY ANNOUNCES SERVICE TO ENABLE UK LOCAL AUTHORITIES TO GENERATE OPEN3R WASTE STANDARD RESPONSES.
 
-Subtitle: [Provide a few more key details]
+Subtitle: The Open3R standard enables Local Authorities to publish details of their waste processing facilities. This tool generates the responses for them.
 
-Intro Paragraph: London, England - [Intended Launch Date] – [Provide a crisp 3-4 sentences that reiterate and expand on the title with a little more detail on the customers served and what is being launched.]
+Intro Paragraph: London, England - 28-Nov-2021 – Until now, there has been no common 
 
-Customer Problems: [Lay out the top 3-4 (max) problems for the customers your product or service is intended to serve.]
+Customer Problems:
+- The response for a machine-readable technical format like Open3R needs to be codified correctly. This requires some technical knowledge.
+- Councils are already very busy and an extra requirement will take time to resolve
+- Much of the information is already out there in some forms of open data
 
-[problem 1]
-[problem 2]
-[problem 3]
-Solution: [Describe how your product/service elegantly solves the problem. Give a brief overview of how it works, and then go through and talk about how it solves each problem you listed above.]
+Solution: This tool automatically scans all of the Household Waste Recycling Centres (HWRCs) in the United Kingdom that have been mapped on the Open Data OpenStreetMap. These data records link to Wikidata for further information. The tool then generates an Open3R response from the available data. The process runs automatically at a regular interval. All Councils have to do is keep publicly available OpenStreetMap and Wikidata up-to-date (with opening times, what waste is accepted, etc.) and they get the Open3R for 'free'.
 
-Leader’s Quote: [Pick a leader in your company and make up a quote that talks about why the company decided to tackle this problem and (at a high-level) how the solution solves it.]
+Leader’s Quote: "Open data creates opportunities to turn rubbish into resources. This is an important first step in establishing an open data institution that can develop the necessary assets to enable waste data to become the valuable resource it should be." - Tom Passmore, Dsposal
 
 Customer’s Job-to-be-Done: [Describe what a customer has to do to start using the product/service and how it works. Go into enough detail to give them confidence it actually solves the problem.]
 
-Customer Quote: [Create a fake quote by a fake customer, but one that sounds like it could be real. The customer should describe her pain point or the goal she needs to accomplish, and then how the product you launched enables her to do so.]
+Customer Quote: "Aldbourne Council are keen to support anything that keeps waste out of landfill, but we don't have the technical resources available to implement Open3R. We were pleasantly surprised to discover that Open Data advocates have solved the problem for us." - Alison Monroe, Leader of Aldbourne Council
 
-To learn more, go to [Provide a URL or other information on the first place a customer should go to get access to the product/service.].
+To learn more, go to [OpenWasteMap](https://openwastemap.uk/).
