@@ -2,7 +2,7 @@ Title: CODETHECITY ANNOUNCES SERVICE TO ENABLE UK LOCAL AUTHORITIES TO GENERATE 
 
 Subtitle: The Open3R standard enables Local Authorities to publish details of their waste processing facilities. This tool generates the responses for them.
 
-Intro Paragraph: London, England - 28-Nov-2021 – Until now, there has been no common 
+Intro Paragraph: London, England - 28-Nov-2021 – Until now, there has been no common dictionary to describe what waste can be recycled and where. There should be opportunities for Councils and organisations to work together to improve the waste journey, but without basic information they cannot move on. This standard will open up the future of waste.
 
 Customer Problems:
 - The response for a machine-readable technical format like Open3R needs to be codified correctly. This requires some technical knowledge.
