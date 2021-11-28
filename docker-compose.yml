@@ -4,7 +4,7 @@ services:
     build:
       dockerfile: Dockerfile 
       context: .
-    image: uk-open3r:0.0.1
+    image: uk-open3r:0.0.2
     volumes:
       - ./notebooks:/home/jovyan/work
       - ./data:/home/jovyan/data   

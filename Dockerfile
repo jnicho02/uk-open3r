@@ -1,4 +1,4 @@
-FROM jupyter/scipy-notebook:lab-3.1.17
+FROM jupyter/scipy-notebook:latest
 
 RUN mamba install --yes \
     folium \
@@ -6,6 +6,7 @@ RUN mamba install --yes \
     jq \
     mapclassify \
     numpy \
+    overpy \
     && mamba clean --all -f -y
 
 RUN fix-permissions "${CONDA_DIR}" && \
